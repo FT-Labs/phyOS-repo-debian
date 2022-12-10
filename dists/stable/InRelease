@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: phyOS - Arda Atci
+Label: phyOS-repo
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: all
+Components: main
+Description: phyOS repository for debian
+Date: Sat, 10 Dec 2022 23:06:24 +0000
+MD5Sum:
+ a60cf49e0d14cff1d666c90c923824b6 592 d.sh
+ 7cc8bc49583b53d1de3ffaf5ed8687ec 13580 main/binary-amd64/Packages
+ f90a2291f14e58d06ec34f01d6978940 5367 main/binary-amd64/Packages.gz
+SHA1:
+ 93ad8b9c950e0ec1bb641de7d40d862a58e35371 592 d.sh
+ ce628ec929620573032e1acf0ea4d0990e498d52 13580 main/binary-amd64/Packages
+ b57c4faf512c9209ed13e36f63aa7e1dcf68b02b 5367 main/binary-amd64/Packages.gz
+SHA256:
+ ecfe89476ff43d3c8fea434389a10a25d3875fe31a26567cd7e680b498ba996d 592 d.sh
+ b494549209bbea51c302078123bb51b3caf6b3b765c0f93101e3923bc36c128f 13580 main/binary-amd64/Packages
+ faa75d0078118e8105866676a92daac62436efdd30081dce2907c5a1ae9bc350 5367 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE+P/4pTbw+GTyvjJElk/YWGHIWNcFAmOVEdEACgkQlk/YWGHI
+WNcSIQwAzqZwiP4WZEoWT6+ZZbGaZtJOa7A/EpNvgUhLx2syfSJzhX3CfgAEIiMx
+UEMMJIz3IoEZqk2AqGrnkpxtU7a6I4h86b/fUdY4Lma3W3RWfm/7v7pgc6AoZTs4
+C/pDkBKStI/6U1b+fjDmsUDZtCzD1ZKv02HQ9WGqdNu+aXBNdAwZwGKYy0Qt88op
+Nc5Ait7MQExXFVayXJn+/T2qjJDjU2aRL+wOPRBfCkVQ4T61J34ZwWJIEfP5S6FP
+S31eiZnW9Xhv2exgZ1dJnOqOHnMiCedsY6Z4QDwcUNtDazhSjzdyPXAzH/owVxnT
+Hw9SvrVDX72XihVdTHu6WrOw5d482CdemYc04x3F146xSkxynfr1uGGct4rBwvgo
+OVbj7jhO2ZLIqHsizACjN52Gn+hlhB5z7zVCjUwjPX9VWEdQTP1RHgCe7tft0rW9
+5DwGT6KjCBz1tJQv1SkTSGpZojINiWH78as3iFKRX5LP0aGNIH8XwN06R7lJA1f5
+lIqWMlFP
+=Huse
+-----END PGP SIGNATURE-----
