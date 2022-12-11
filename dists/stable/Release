@@ -2,17 +2,23 @@ Origin: phyOS - Arda Atci
 Label: phyOS-repo
 Suite: stable
 Codename: stable
-Version: 1.0
+Version: 1.1
 Architectures: all
 Components: main
 Description: phyOS repository for debian
-Date: Sun, 11 Dec 2022 17:51:23 +0000
+Date: Sun, 11 Dec 2022 18:07:01 +0000
 MD5Sum:
- 573c2613e9b06d03f162b89bdaabc2e4 13037 main/binary-amd64/Packages
- 28857bc43ed8d2cb604d71215be15bad 5163 main/binary-amd64/Packages.gz
+ e065b6eda9785da2b7583e1d887343e8 659 Release.gpg
+ de1a7da570f3ca252cc5586c83fe1edf 1421 InRelease
+ 7d4d01287aadc19c00a6d612686fba63 13029 main/binary-amd64/Packages
+ 2887daf34e75aa749f7f9e3e680f2f74 5143 main/binary-amd64/Packages.gz
 SHA1:
- ab47e77196154161c40e284f857237dd2cfce06e 13037 main/binary-amd64/Packages
- 8008a01bdc5a3e605821e94fd0c326dada8dc140 5163 main/binary-amd64/Packages.gz
+ 08d34b24dadafac827b6eb118225902130e534af 659 Release.gpg
+ 087e0cd338afdda3ef1bff93c2bf4dde638f7525 1421 InRelease
+ 6525b2e50fc4d328f7f13bdfb712012c69aa71c3 13029 main/binary-amd64/Packages
+ 9701bb6d66e6365087662461dad954917cba0b13 5143 main/binary-amd64/Packages.gz
 SHA256:
- c43b5654268be6b1ece64b054cb36495e022f0978a3e0def5ab64dd74f2372c2 13037 main/binary-amd64/Packages
- 015aa78baa5cde137e4e6d0fb0be11d8bf92fe30a579e357d97f65c07b07210d 5163 main/binary-amd64/Packages.gz
+ 7e3cce5896476afd2feeb365f9b3f5c36c6aee5ad5cd9f0cd33f50530c178995 659 Release.gpg
+ c250e4d0e5925a53c871f88123e5d61071d0fb584600e5ad0ef0d8f6fb8cdcde 1421 InRelease
+ d70235ca0a146a4f9c3cc75702d640a7f824406c56e954058286edbc41cacb48 13029 main/binary-amd64/Packages
+ 04f0eebe2d315531d2dea536bdaf0fafaf75f1dd700b2db5bc577ce78e8df162 5143 main/binary-amd64/Packages.gz
