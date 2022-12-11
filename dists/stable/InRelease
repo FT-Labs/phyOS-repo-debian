@@ -9,33 +9,27 @@ Version: 1.0
 Architectures: all
 Components: main
 Description: phyOS repository for debian
-Date: Sun, 11 Dec 2022 17:28:41 +0000
+Date: Sun, 11 Dec 2022 17:51:23 +0000
 MD5Sum:
- 4ab090761d6b778f03c8c9fb9ceb2858 659 Release.gpg
- 99bbb756ff145f3ed9dcd92ba3338cb3 1798 InRelease
- 2dd9edf64fed86bbab26678c1e6bb269 13216 main/binary-amd64/Packages
- 89a4dd0be70c9ab5965f7663af3c72f0 5223 main/binary-amd64/Packages.gz
+ 573c2613e9b06d03f162b89bdaabc2e4 13037 main/binary-amd64/Packages
+ 28857bc43ed8d2cb604d71215be15bad 5163 main/binary-amd64/Packages.gz
 SHA1:
- 866634424905a6ec826edef1e7c0c57a7c2c28f6 659 Release.gpg
- 8fc159e5f6baa7823d5e72615a8036afb9731573 1798 InRelease
- f2fe673237eea2ba724a0c2a8d46eec856015158 13216 main/binary-amd64/Packages
- f7e7a246195fff7092b44ec7826b3b32f0879479 5223 main/binary-amd64/Packages.gz
+ ab47e77196154161c40e284f857237dd2cfce06e 13037 main/binary-amd64/Packages
+ 8008a01bdc5a3e605821e94fd0c326dada8dc140 5163 main/binary-amd64/Packages.gz
 SHA256:
- 02f3faacd6f517104e2a78097f74ab175533b1cb408d97bef9b3aaebeff3a895 659 Release.gpg
- 22be3ca7b3aa787589d73f1b07f99eafde66c7b22b36e2b4d237fa5632089e0d 1798 InRelease
- bcd60238e648d32153e94eae943acc37825a4013d41ecc7ec46f965f6719d547 13216 main/binary-amd64/Packages
- 3a6d31c8fc02b2374337c2631948ab3c9374282d6c90f4ac8bdcf72d7aa838d2 5223 main/binary-amd64/Packages.gz
+ c43b5654268be6b1ece64b054cb36495e022f0978a3e0def5ab64dd74f2372c2 13037 main/binary-amd64/Packages
+ 015aa78baa5cde137e4e6d0fb0be11d8bf92fe30a579e357d97f65c07b07210d 5163 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEE+P/4pTbw+GTyvjJElk/YWGHIWNcFAmOWE0wACgkQlk/YWGHI
-WNeN5Qv+OdqrYpgB92+55LTA6r/WUPYxtqMwGZWCGkD78kDa5pKbFvP1kbNo5l7z
-bCird/pyVMWxWcKMa8dfrU9U6IJkPgJDTpHLl3/VY+5HUY6riURAy7xbSVjhWO2s
-ehfHZNe5/OynmpRtAZpBhCAypzt+J4PZShSwasLkghAai8LaYBiasYNaEi8uxOEp
-gxzftgah1ssayCX000nWMf6ewC8hyEd3Hbr8gwSOG6TTAZVPtHBsvlIY+xqAsRkb
-ZdEKk5UQlhLn55WFOhTH33gQdE+SAJ5R91b6iWzfP++t3m3YN8cAJU7/uE+kWhYq
-5Z/M+uxLu8llLkPIMzPPZfRTTAcIcFSqovgiJ0vUNlxdpvqfxPp/ssAUqRNFBwm7
-TjooCukZgQEOjrbCGTVsDVRFRRx6BDxmYbqcrPU55P0CyXdQoJAoDbefjmHeRUBQ
-0u5uz30/1R0IT2evXJSgSHq8nz6YEjkqz+nc3dARmBxjNFAK76Fpm5Lnb7GqxjUY
-ea6n3YDP
-=8Od2
+iQGzBAEBCAAdFiEE+P/4pTbw+GTyvjJElk/YWGHIWNcFAmOWGJsACgkQlk/YWGHI
+WNdUuwv+NACiavmXegD3DL/mShhrT4lXYxJZ+8iBvvr0dxzchPOIEDhJmKlOLKb4
+UbfHSRS5fQ/KJulQySmXFdc+I1o2rgGvempWzSGs1KXmxn2/K345KN2lCFYTrkgY
+84unwZIb+fsP6LsG2oC71FW/taCTW0g3PcE3OfMP286VjNKhekixGY5a013o0AQr
+C3TZpBQut7lkePwA7DZn3VTvkZimruU+MCj9Yx+GAR4CUUSu5ZWoEfVNJf7WxMFn
+EJdmJuqAPWCQEzJ8hhw2JoSP5sOfjxcsKlTaarzOprSDU37HjVPdQbP/dQ7bC0ec
+EOv9cPt7jCpdHLcbX/hChaq78efXUfIvTXzJtDBbwpO39skbBOKUAsd9bMibbK+H
+cOh3C8AOB1RuMn9UhVFdPTu527ZMdc4noM2hc/hqb44VxEYYXd4ysVTuIkfJVg5f
+kYrhpD4EsE2i7w9JmXhTYyoBjTLScNWxxsqEQBZBOpan9S7eHDk1NfG1Ov/tX0RZ
+rXzVcHhM
+=W1Dy
 -----END PGP SIGNATURE-----
