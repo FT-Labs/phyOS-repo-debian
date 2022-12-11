@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 Origin: phyOS - Arda Atci
 Label: phyOS-repo
@@ -9,30 +9,33 @@ Version: 1.0
 Architectures: all
 Components: main
 Description: phyOS repository for debian
-Date: Sat, 10 Dec 2022 23:06:24 +0000
+Date: Sun, 11 Dec 2022 00:22:38 +0000
 MD5Sum:
- a60cf49e0d14cff1d666c90c923824b6 592 d.sh
- 7cc8bc49583b53d1de3ffaf5ed8687ec 13580 main/binary-amd64/Packages
- f90a2291f14e58d06ec34f01d6978940 5367 main/binary-amd64/Packages.gz
+ 0e2073fb0d2ac3118a6414734a658f05 659 Release.gpg
+ 2e3c448835ee9c07e7e423b8007b1a7a 1590 InRelease
+ 5cbdc11f9be7704506ff6b6a70718211 13579 main/binary-amd64/Packages
+ 7e8e601844d5db84794f44109328196f 5357 main/binary-amd64/Packages.gz
 SHA1:
- 93ad8b9c950e0ec1bb641de7d40d862a58e35371 592 d.sh
- ce628ec929620573032e1acf0ea4d0990e498d52 13580 main/binary-amd64/Packages
- b57c4faf512c9209ed13e36f63aa7e1dcf68b02b 5367 main/binary-amd64/Packages.gz
+ 4eae64d7d1c3bfa4b641d947714394ca71020de8 659 Release.gpg
+ 1e8632b04bb61832c92c0f3d8013031715d01e57 1590 InRelease
+ d0978feb15ca39bb0fa75b8ea465e71a8b9d10aa 13579 main/binary-amd64/Packages
+ ff7e46f7c429427ec2d65fccedb5e1c171f78402 5357 main/binary-amd64/Packages.gz
 SHA256:
- ecfe89476ff43d3c8fea434389a10a25d3875fe31a26567cd7e680b498ba996d 592 d.sh
- b494549209bbea51c302078123bb51b3caf6b3b765c0f93101e3923bc36c128f 13580 main/binary-amd64/Packages
- faa75d0078118e8105866676a92daac62436efdd30081dce2907c5a1ae9bc350 5367 main/binary-amd64/Packages.gz
+ 4037f882c11ff105ad094bd5c783e4d08d8ff0368865179026272441a9bb06cb 659 Release.gpg
+ 88fcc7b09cf21a583978025ff3b25fb3fa278e574dc448c6c943919f5958a017 1590 InRelease
+ c4fa9b1a50b40ff29f2bb5944d653b0788e2e24b19693ed93ff4a84d00f08c5b 13579 main/binary-amd64/Packages
+ ca9e3a2473b2542c38214ef2c319254e2800a64af8a080c83c3ec2c8d63ddc5a 5357 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEE+P/4pTbw+GTyvjJElk/YWGHIWNcFAmOVEdEACgkQlk/YWGHI
-WNcSIQwAzqZwiP4WZEoWT6+ZZbGaZtJOa7A/EpNvgUhLx2syfSJzhX3CfgAEIiMx
-UEMMJIz3IoEZqk2AqGrnkpxtU7a6I4h86b/fUdY4Lma3W3RWfm/7v7pgc6AoZTs4
-C/pDkBKStI/6U1b+fjDmsUDZtCzD1ZKv02HQ9WGqdNu+aXBNdAwZwGKYy0Qt88op
-Nc5Ait7MQExXFVayXJn+/T2qjJDjU2aRL+wOPRBfCkVQ4T61J34ZwWJIEfP5S6FP
-S31eiZnW9Xhv2exgZ1dJnOqOHnMiCedsY6Z4QDwcUNtDazhSjzdyPXAzH/owVxnT
-Hw9SvrVDX72XihVdTHu6WrOw5d482CdemYc04x3F146xSkxynfr1uGGct4rBwvgo
-OVbj7jhO2ZLIqHsizACjN52Gn+hlhB5z7zVCjUwjPX9VWEdQTP1RHgCe7tft0rW9
-5DwGT6KjCBz1tJQv1SkTSGpZojINiWH78as3iFKRX5LP0aGNIH8XwN06R7lJA1f5
-lIqWMlFP
-=Huse
+iQGzBAEBCAAdFiEE+P/4pTbw+GTyvjJElk/YWGHIWNcFAmOVI3wACgkQlk/YWGHI
+WNd46gv/Tm1YnRb7YYE/ppTSG9HzU7nYXgnYRUBDnEkMl0poK2IOvh8Et/1MXkKu
+QfSmGJJSH6niEg4lOLbVnQYbQFhdIA+ahEyOqBVFB9U6VS/5McgX0s4roxYlhvEI
+fwIoyms2tfcfUAO8mPLMdwBlECBhBWCRIij4ZYOA8JqI78mmD5uWBqDdtxBZIxEF
+6JfQgDUoFpwl3ni8GzaGZvo8nbmW/zz8blTWgeo5Ii1vl+4wBsJrRCRIKjk79/iQ
+xwxI/W5tz+c+w9EdnfPhhseH/C14zsARR/4/vKr6pWfa7SVub/kqSKeBRt3Q4iSP
+ZPylqnsrjg/L95VXzJ9fVjT3k2+L73S3ySxCZaAFai4KYCVB6X7PxVtej2F3i8vM
+EUtGzPiUU8qH1RVW9UrFRSfdE9ZENmjrpGYovlXmXnlLXP4c7FHHsjdRadssUPha
+I/oRcx9BoxowQmq4E7Zbw6fK2+f3JCmshNQ2gTQuuR1g1kUeL/fR3r4Or0A6Izc4
+uJiqzBQZ
+=qe9p
 -----END PGP SIGNATURE-----
