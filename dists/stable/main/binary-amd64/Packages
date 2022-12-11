@@ -8,9 +8,9 @@ Conflicts: lf
 Provides: lf
 Filename: pool/main/lf-png_27-2_all.deb
 Size: 1245920
-MD5sum: 91f6a9cd94131579551f2b18cf810634
-SHA1: b558c95a29895998d4a5cfd60ba31cfac6041ac9
-SHA256: f7dbcfaf037b29ae63f02776ed5897547ec2a7fdf5bbfa9510c148aae03e154b
+MD5sum: 6a4760bdbb2c116c6ec3b017772cbab7
+SHA1: 29cf5e603d56aaf934ed9c14be74b07c83f9f0e2
+SHA256: abf2743c925e03e6252d0ea43ccb2b8329f30df5922d7b2c4e23a9c9dc1553ed
 Section: utils
 Priority: optional
 Description: lf file manager
@@ -26,27 +26,27 @@ Replaces: libconfig9
 Provides: libconfig
 Filename: pool/main/libconfig_1.7.3-1_all.deb
 Size: 86160
-MD5sum: a811c9d3d6e5f71db23c1f4c3e91c1d0
-SHA1: 2183ef1db9842c714fdfe62c6b6ca919ac38e826
-SHA256: b7d6947a25e27ff9b9244fbe52a23377b08930856443ab2d72734b8ae786c1a1
+MD5sum: 041369c08d4ff19e7a8a144781698655
+SHA1: 6ed4c56cc5200cd5f7ab6a029946d1803f3589a5
+SHA256: 39ec65355e504c0826110311786f365e2aecca638016fe8f129cd7e0c927acda
 Section: utils
 Description: libconfig 11
 Original-Maintainer: Arda Atci
 
 Package: nvim
 Version: 0.8.0-1
-Architecture: All
+Architecture: all
 Maintainer: Arda Atci <arda@phyos.su>
 Depends: libc6 (>= 2.34), libluajit-5.1-2 (>= 2.0.4+dfsg), libmsgpackc2 (>= 2.1.0), libtermkey1 (>= 0.19), libtree-sitter0 (>= 0.20.2), libunibilium4 (>= 2.0), libuv1 (>= 1.30.1), libvterm0 (>= 0.1), lua-luv (>= 1.43.0-0)
 Recommends: python3-pynvim, xclip | xsel, xxd
 Suggests: ctags, vim-scripts
 Replaces: neovim (<< 0.8)
 Provides: editor (= 0.8.0)
-Filename: pool/main/nvim_0.8.0-1_All.deb
+Filename: pool/main/nvim_0.8.0-1_all.deb
 Size: 5894744
-MD5sum: 70145eb22254354a4c73ea45aa567408
-SHA1: 92fa5c689dea4d33c04865042e4dd0bcbcd41407
-SHA256: ec6218a7f9946eabc0f540baf399b318d679ef605f8ac32c9f4f4a07b7a12bac
+MD5sum: 7ca5978d99c71144e3d36f5a4b19a64e
+SHA1: ff182b94f42f6245f9bdc2ec4944f11789bd3868
+SHA256: 8c51e4d32486b3a5371d1e315402b0826d03bcc9be434a1b1aea6b265055f579
 Section: editors
 Priority: optional
 Description: heavily refactored vim fork
@@ -70,9 +70,9 @@ Conflicts: dwm, dwmblocks
 Provides: pdwm, dwmblocks
 Filename: pool/main/pdwm_1.3-11_all.deb
 Size: 62500
-MD5sum: bb6df32fe990e975ab3508ff4b9cd9c0
-SHA1: 7c904d0b0b094f0b30457ccfd8087ecf97e3c627
-SHA256: 5c6f9f22e55e0639dcd63bc0dccd6165b166249a4432dad71355eeae3b844ee2
+MD5sum: 303650d43c289c8474c9fc278e32c21a
+SHA1: b6bd9dfd2c66847cb2c5d03b12a821a0be688b9d
+SHA256: c2fd6c4c15661e734f2f446e0f5e48038560484d03f80c731215c4117dd8dede
 Section: libs
 Description: Pdwm window manager
 Original-Maintainer: Arda Atci
@@ -86,9 +86,9 @@ Depends: python3-pip
 Provides: pdwmc
 Filename: pool/main/pdwmc_1.1-01_all.deb
 Size: 12896
-MD5sum: 42370346b3e3d9e3f33245783b1a9c82
-SHA1: 13a3e139f8b58ba67671c8e382b25753f24723e0
-SHA256: d4e71f4deb3012ddce5d923e80b5c4fb5e3d5623b8e3b2f5b42c590f76cf9ff6
+MD5sum: ce6bb57105493ec8baac8c2d434e6280
+SHA1: 9be080472aaca8f82d239f136b4e8dff1fea5e81
+SHA256: c068c9a56ed6086b4c23c11a611cb35ea5b24d1673d2ad9e817e105312a7279d
 Section: utils
 Description: Config editor for pdwm
 Original-Maintainer: Arda Atci
@@ -102,9 +102,9 @@ Depends: papirus-icon-theme
 Provides: phyos-base-themes
 Filename: pool/main/phyos-base-themes_1.1-0_all.deb
 Size: 12108824
-MD5sum: 91d3579686b381f3ead4ced2418152b3
-SHA1: db8779648e25d9cf48659905b36d116a87ff62c3
-SHA256: f6973f234505cf088ca8762755ad5247d78add82a5a0772879c78187c5f07217
+MD5sum: 5489ee6827c6932533ef80293b51d639
+SHA1: 825aae5e256184901c87c6940e9a27b2684e2b2a
+SHA256: 920a5099161260179970aa6d8b05d34168c0c8768ccec5ca4101bea198922081
 Section: utils
 Description: phyOS base theme package
 Original-Maintainer: Arda Atci
@@ -119,9 +119,9 @@ Conflicts: dmenu
 Provides: dmenu
 Filename: pool/main/phyos-dmenu_5.0-1_all.deb
 Size: 17924
-MD5sum: b594813505ba491af80a835cb4ded319
-SHA1: b32daa0ace102f508e302da94fab7f1aa530f705
-SHA256: 2cc817e6082ecdcdc9c47cd6c70c82754302c19b26c58d348282befda96a181d
+MD5sum: bd980ac662bd518abef89349e3376599
+SHA1: 935e56396e70a5177d455117b9e2c2a80c19458c
+SHA256: 1c28ece850b87337511617d3234e26668ae5ac652323c061d9b4b6e6717ee08b
 Section: utils
 Description: dmenu build for phyOS
 Original-Maintainer: Arda Atci
@@ -136,9 +136,9 @@ Conflicts: dunst
 Provides: notification-daemon
 Filename: pool/main/phyos-dunst_1.9.0-0_all.deb
 Size: 99600
-MD5sum: e6dfd828b4f2888c7040151d2f32ebdb
-SHA1: 7b9b66e856e3c06d2ff4917aba23d5ff56eebd10
-SHA256: f29746c8a4d5a094d5ad9b0d440de3ad9b83e6ea773d74a0d063fccf52a3f5b2
+MD5sum: 64539061595c409ada48aded8e645f98
+SHA1: f2f0cd6f104b312e6c403d2ec75dee924256c48a
+SHA256: e05c6a4c89acc0fb5525621bac1b699a03302173e6a85db02a2748455100740b
 Section: utils
 Description: Modified (dunst) dynamic notification-daemon for phyOS
 Original-Maintainer: Arda Atci
@@ -152,9 +152,9 @@ Depends: fontconfig, fonts-jetbrains-mono
 Provides: phyos-fonts
 Filename: pool/main/phyos-fonts_1.4-0_all.deb
 Size: 4289712
-MD5sum: bc48286e87b9eff0fbec9f58a49cd636
-SHA1: abad057ba0a1789956fa576749572072f211f205
-SHA256: 02c53cff58faaa16a12976aba68302d0caef6400335b50a778d2fafbab471774
+MD5sum: 10b3b01060c74f6f722f2393716ccd47
+SHA1: 26676db2f12294ba82f6586d26b29387135cbc3a
+SHA256: 84ee897a959cc9bf887d4b695cc3e60cf84a9620141dfd11d586b62d5bc9b258
 Section: utils
 Description: PhyOS system fonts
 Original-Maintainer: Arda Atci
@@ -169,26 +169,26 @@ Conflicts: compton
 Provides: picom
 Filename: pool/main/phyos-picom_1.6-02_all.deb
 Size: 182216
-MD5sum: 592373db70e9d8b4412582af64d9c1aa
-SHA1: 9f7bba7b0196473f63847ba48829421cc6b02889
-SHA256: f377c387763a23a89dfff0563790b5a523ac611c6689ef70661b8a70f9624b78
+MD5sum: 492f344628a2cc8d03538cbf6d1a45d1
+SHA1: 4d6533a5e529bd396ff434ac906fc3da205e26f1
+SHA256: a99d9692735a5892c1bb890439013db056ec908f7cffd56616cf2621b7f504ab
 Section: utils
 Description: X compositor (fork of compton) (git-version; animation fork)
 Original-Maintainer: Arda Atci
 
 Package: phyos-rofi
 Version: 1.7.5-1
-Architecture: All
+Architecture: all
 Origin: Arda Atci
 Maintainer: Arda Atci
 Depends: libc6 (>= 2.34), libcairo2 (>= 1.12.0), libgdk-pixbuf-2.0-0 (>= 2.31.1), libglib2.0-0 (>= 2.35.9), libpango-1.0-0 (>= 1.37.5), libpangocairo-1.0-0 (>= 1.22.0), libstartup-notification0 (>= 0.11), libxcb-cursor0 (>= 0.0.99), libxcb-ewmh2 (>= 0.4.1), libxcb-icccm4 (>= 0.4.1), libxcb-randr0 (>= 1.12), libxcb-util1 (>= 0.4.0), libxcb-xinerama0, libxcb-xkb1, libxcb1, libxkbcommon-x11-0 (>= 0.5.0), libxkbcommon0 (>= 0.7.0)
 Replaces: rofi (<< 1.7.3)
 Provides: rofi (= 1.7.5)
-Filename: pool/main/phyos-rofi_1.7.5-1_All.deb
+Filename: pool/main/phyos-rofi_1.7.5-1_all.deb
 Size: 552480
-MD5sum: 55f06c67f794209a7b2ba64494a8dec2
-SHA1: afa98026eca8add6348a7c160453045b4e22d607
-SHA256: 1cdb24d4d824613916bb31fe92b4b222864ffb931d36a1184d1aa03a69cb7a9d
+MD5sum: df301924cef5dd5f4636625279bd7eb5
+SHA1: 4685f1ff9e1630bebcb27d6f749026f4358f3a1a
+SHA256: 1fe2e57711f3c80c92473b079d05a54eb3bad6b476d75bdeb120bc35b9cdd30e
 Section: utils
 Priority: optional
 Homepage: https://github.com/DaveDavenport/rofi/
@@ -227,9 +227,9 @@ Conflicts: st
 Provides: st
 Filename: pool/main/phyos-st_0.8.5-07_all.deb
 Size: 41416
-MD5sum: de71243de1a9d1d16a849b126461a255
-SHA1: b5ef2ff5d98c4df18b602709d441e845f5c6c5dd
-SHA256: 5d3b22f1df58830395f162d9d8ad9f2b7f0a88fd47d4fdb4bb6a29a5e0236041
+MD5sum: feb53ce6edc0fa2775f0bf321e230625
+SHA1: 00bb2e3475ce64e61ed6814acd1bf1fb9f524b5d
+SHA256: 0feb6f91fe00b98aa6ab7cde211937cbefe3075b1548e64468b12576192f19a5
 Section: utils
 Description: st build for phyOS
 Original-Maintainer: Arda Atci
@@ -242,9 +242,9 @@ Maintainer: Arda Atci
 Provides: phyos-sysconf
 Filename: pool/main/phyos-sysconf_2.4-0_all.deb
 Size: 13905924
-MD5sum: c84d427d0b067043f442412d2a7d243d
-SHA1: eeb67832b5de2bc45036c6e8a19fb4afe7341c1c
-SHA256: 7691b28327f843b801d40e41e3c4ee3a953fe88c39c8eeb76e7758302ecfd590
+MD5sum: b3dfabdb1eb815c9df797c896d9d18fb
+SHA1: d6b86b347afd7b80527362d25bbbbf6e2df09b0a
+SHA256: 73f822d1051fdabe471873ef510fa64c0cf5a0d9b9135b5535cc478773e5aeda
 Section: utils
 Description: Configuration files for phyOS
 Original-Maintainer: Arda Atci
@@ -259,9 +259,9 @@ Conflicts: phyos-system-scripts
 Provides: phyos-system-scripts
 Filename: pool/main/phyos-system-scripts_2.7.1-02_all.deb
 Size: 29300
-MD5sum: ea8fcdb6214411e3b16e418afcb31184
-SHA1: 7079fc6318321c046de6cff57773e62512580ea4
-SHA256: 454bb3939193b43236b8db4db68a5ecb4ddaefee3c559c13eb45f32cb3795672
+MD5sum: 872bc89516b471bf84386effbcee6449
+SHA1: 0f3d903f9cd2e43a12310b6f52ebb169152682db
+SHA256: 718f376e921e458112a609b51c97d4f142c6cafae78cb24a76c8c609c6c2c10f
 Section: utils
 Description: Scripts & utilities for phyOS
 Original-Maintainer: Arda Atci
@@ -276,27 +276,27 @@ Conflicts: xmenu
 Provides: xmenu
 Filename: pool/main/phyos-xmenu_1-2_all.deb
 Size: 14444
-MD5sum: f47ad84b9eb79daf7d2c65895beb6ad3
-SHA1: ca414780328bcd95b23ab40649b65dfaf1b76b4c
-SHA256: 6481c9a0f64d765dafd097c3407231293fff8f581a0a8b8016fe4eac0d1008df
+MD5sum: 7e0758621c2cb82c56e2a2e768b5b6cf
+SHA1: aba2d25b9d7e05c737fe7544f55d039e7d0c7d7b
+SHA256: a05bb5f96539c8f3e5f9182221604616dbe9530d7385c6d24af12894ad9a97bd
 Section: utils
 Description: xmenu build for phyOS
 Original-Maintainer: Arda Atci
 
 Package: phyos-zsh
 Version: 5.9-2
-Architecture: All
+Architecture: all
 Origin: Arda Atci
 Maintainer: Arda Atci <arda@phyos.su>
 Depends: libc6 (>= 2.34), libcap2 (>= 1:2.10), libtinfo6 (>= 6)
 Recommends: libc6 (>= 2.35), libgdbm6 (>= 1.16), libncursesw6 (>= 6), libpcre3
 Replaces: zsh (<< 5.8)
 Provides: zsh (= 5.9)
-Filename: pool/main/phyos-zsh_5.9-2_All.deb
+Filename: pool/main/phyos-zsh_5.9-2_all.deb
 Size: 3549080
-MD5sum: 4391b210559a26272970be6931ab8936
-SHA1: 678b7f499df743cad74146fa742be013da853cf4
-SHA256: 529d0802a0483424d62c676b4de0f8c4d13f61316cd5e2631b667a168ea5bab8
+MD5sum: 00f3631ae6191899e6e4aefa291db0ec
+SHA1: 41884abfeb5de9ef422a5e63a859d110ed1a8fc0
+SHA256: 05e3a58f1cca3e54dd6647d99c8b87679ad30aa2b0bf0c075aeaf3a69f021495
 Section: shells
 Priority: optional
 Homepage: https://www.zsh.org/
@@ -318,9 +318,9 @@ Depends: golang
 Provides: physettings
 Filename: pool/main/physettings_1.0.2-03_all.deb
 Size: 938376
-MD5sum: 23e1c3b72a928dbc97b4e62ad62814ff
-SHA1: f84394906f58e11449e4b0dd208868b5485a88e1
-SHA256: 8ffe40d6411df358dffedce77fd224ccc075e3fef5c4bae9b759e6e42aeb2c47
+MD5sum: 8f8b76451419d1e67295b5179e322393
+SHA1: 02ede5a4d8ca2f20cc2466b575583931760932c8
+SHA256: 15a0448fa9019c5a503090ff94eba49a7c0dfd9bc13de158d5f6e0b51a3b54af
 Section: utils
 Description: System settings TUI application for phyOS
 Original-Maintainer: Arda Atci
@@ -336,9 +336,9 @@ Conflicts: initramfs-tools, tiny-initramfs, grub2-common, grub2-pc
 Provides: initramfs-tools, theinit, mktheinit, init-select
 Filename: pool/main/theinit_1.0_all.deb
 Size: 49964
-MD5sum: 4ce4d7fc6db97525e7342ff136a1cbe4
-SHA1: 7cd01afd341bb7e6fd3cdc0f5de81daef3d8b8c2
-SHA256: 68cd4fffc23d92650ed896b29f0820bc70fde528ef8c15fa2a06f6b8275c6fef
+MD5sum: 4d6634dd977df4af00358a4bde46a1cc
+SHA1: f30e450ed2f2ec1c87509292a62fae0283f666e6
+SHA256: d9a1895f1d2dc0e790b3d475ffcb350ac654679b510a410b9d7f9e9c06ce2597
 Section: utils
 Priority: Required
 Description: THE INIT
@@ -353,9 +353,9 @@ Depends: glibc-doc, glibc-source, libc-bin, libc-dev-bin, libc6
 Provides: theinit-busybox
 Filename: pool/main/theinit-busybox_1.35.0-0_all.deb
 Size: 273712
-MD5sum: b08c232673fab834d963e4e2a0e82556
-SHA1: 20f754989ea5d90236cb85d8be3a06855b559820
-SHA256: e97a2053e6c53fbee420d32de6f8c430f377938941f8b26f647bdd8434db09ba
+MD5sum: 4096a9e52980012daf60b90ebe184f01
+SHA1: 7921ea6e29ceb1c3e21bed602374690f2694a364
+SHA256: 9bb8289885d49445e0a77978b6934c597519ebac5e8419e1d05e22fd44f13875
 Section: utils
 Description: Base theinit busybox
 Original-Maintainer: Arda Atci
