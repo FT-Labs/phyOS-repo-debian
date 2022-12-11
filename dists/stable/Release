@@ -6,19 +6,19 @@ Version: 1.0
 Architectures: all
 Components: main
 Description: phyOS repository for debian
-Date: Sun, 11 Dec 2022 00:41:21 +0000
+Date: Sun, 11 Dec 2022 01:02:28 +0000
 MD5Sum:
- b7697f4bded77b354289d159b8b6e90c 659 Release.gpg
- 15635f6c51cbc0c028d0ca23f4cc0d8d 911 InRelease
- 401184f0e66d3863d57189d6b0f79ab0 13118 main/binary-amd64/Packages
- c5feee4daf21c467a6d58519d805ec32 5224 main/binary-amd64/Packages.gz
+ 3b234c343195d7bb8436d20c4d28d8d6 659 Release.gpg
+ 8e10f036625d5ee3c755ebccba73ed7a 1795 InRelease
+ 2aa7bc9ac3fefc0c169f3cbee0adb487 13157 main/binary-amd64/Packages
+ f162c7569ecb67243767de4af25a16fc 5200 main/binary-amd64/Packages.gz
 SHA1:
- 3b6d90b5a93f8721ceb499338091be6d3fba7ca4 659 Release.gpg
- 75401814dff9dcd4987bc587d18fe26835ebc4c7 911 InRelease
- 2083843f26c6a1480c129b71a8188f3d735d02c6 13118 main/binary-amd64/Packages
- a5a9b3fcd4f87e6a060c93c374d3420010556d23 5224 main/binary-amd64/Packages.gz
+ e7db1bbccb779c135857ba8d5eb6ed140ea7247a 659 Release.gpg
+ 561854186a61da81e78d244f677bfeb38ac8ccba 1795 InRelease
+ e998aaf3a599fc0a4272beaea2ca6a1ebd376a87 13157 main/binary-amd64/Packages
+ 83132af963301875ba564e1d046b0159819fd4f3 5200 main/binary-amd64/Packages.gz
 SHA256:
- b40c146a09f99ed5ff3483f1a7bfcc7496094ff019af9bfe8b8530e1adb89691 659 Release.gpg
- 7aed92a29d3124db9f964d1c41b6cc6302c6d83b7640cd4ef028e947177eb399 911 InRelease
- f6e3dde3bcfbdbd46a9d56c3f76f272cb1ce89c6d880f0d645e43d1eb56e418d 13118 main/binary-amd64/Packages
- c2c9dd928836478fa53ffcea7b9b57f80dedc7095553a094328a4fe98d817830 5224 main/binary-amd64/Packages.gz
+ d3082041b88f5e4113b0c6635a9a26635ea9b9e3c04a8001f014a66f98b5242f 659 Release.gpg
+ 75b177b2b167c6e7d11722cace8f27da0f4e800645d0af159a3ed2e47cb35c90 1795 InRelease
+ e398f620cee24687b738bd89ec5a7581ddb79d2f8eb3efd17e157d6cbb29f8ef 13157 main/binary-amd64/Packages
+ 16236fffef2648f5940e1b69f8d5b397193ca3af51e7addb6b8a0179cf2acf19 5200 main/binary-amd64/Packages.gz
