@@ -9,33 +9,33 @@ Version: 1.0
 Architectures: all
 Components: main
 Description: phyOS repository for debian
-Date: Mon, 12 Dec 2022 22:58:29 +0000
+Date: Mon, 12 Dec 2022 23:05:48 +0000
 MD5Sum:
- 76ce5627e1ae8a3f4ec126c8cab17782 659 Release.gpg
- 3a724ad603975c03dbeb8b24422621e5 1798 InRelease
- 1ca94d86defdc3bbf3a71086419e44e3 12831 main/binary-amd64/Packages
- 133cba6982f7c4f263ebe88b858f6af0 5026 main/binary-amd64/Packages.gz
+ 7746d5dd5b16a12b2f70235dec34d463 659 Release.gpg
+ ecf81fa955d69f4cae1d963a448ded8d 1798 InRelease
+ ac85af01b8d0529bda3001d3756cf473 12831 main/binary-amd64/Packages
+ c296942a753ef379b0bbb26fb3754deb 5023 main/binary-amd64/Packages.gz
 SHA1:
- d8918a66c93017b12e6c6f80ccea2f39c37eb2c5 659 Release.gpg
- f71f71da75b43a4aa20c403358c0412a25131b6a 1798 InRelease
- 16b8b0b14479eccfe75091f9154a806b4bcd314d 12831 main/binary-amd64/Packages
- 78793770f3bb86ac1513f415a21ed1ae4279368f 5026 main/binary-amd64/Packages.gz
+ a3d2a7ead6f748b56a9cbe38e47f090ece32e4d5 659 Release.gpg
+ 467e3cdf32c25e9a4b1bcbc74cf481788eb3284e 1798 InRelease
+ 50f953a2af37dd74759c804aedcaa6a8824d023b 12831 main/binary-amd64/Packages
+ 17cb00cda0521caadcfa1a49a2c868c0ddc7fc32 5023 main/binary-amd64/Packages.gz
 SHA256:
- f484fbc2dea16cb0c1f5fad50d8204e55341bc01433384b3c28855fc636ff2dc 659 Release.gpg
- c117d16f829ee0db38e48313f0fadc1756189b5d6e6cc926cef0915ccef02ecb 1798 InRelease
- 2dadc8380c14555260cb066db579ca932cb0d9014d5644a3c6253835e305c80c 12831 main/binary-amd64/Packages
- 8c5a5e95e71a26c4d889d03262ebaef02311af26709cff03df01fd950e133c09 5026 main/binary-amd64/Packages.gz
+ 3afcb655fc592e82b0d4cdf86bed5c93d6359c48112ce6592405fbadee15acd8 659 Release.gpg
+ 5f4402f3c13a17373746ddfdc61b69cb4ce0fdb91fff36d4a6d6806e47cc0a09 1798 InRelease
+ a6d5c5fb45946a93eebf9de919e0499144ad9b64de1eb6254ab96ecd1230a097 12831 main/binary-amd64/Packages
+ 07ae0123dbe9a2b71071d4e74c421a070c1d4e21e968b97556ab8a66a118cfa4 5023 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEE+P/4pTbw+GTyvjJElk/YWGHIWNcFAmOXshcACgkQlk/YWGHI
-WNe2zwv+IirIZhOHPp/1H0Bl1Mwh8KTZ0LOI7CG8/Ue2sM+Rd/8fwSAHXEjA9Lzd
-vJ9d9Fiemv59d7ThSwQhuBSjdytHZwMPo3H8QSPZIBxwS/cl8ulY5RJBa1CGUs4F
-KfSdlfnGKNZYpX2rWUJs99A7KyRQhb17oTcw2tpPSnL6NNvGEBLVOsu75dRjVxsH
-kJKuAdATUNVBWKJijvnpqvlRUhE02sxza0Z3rTOxOVhEW9WvbOOQf5Of+dc9//pS
-L7gQhLi/UxPMCleO+ZeRggKBJHvECJHWhZlmT89s/YogYTRvx47UUB/rele42M0k
-tOtb37kvlXwLeCFmOi/NgBAiuSFcHRIEKS0mehiwPQhmgZ6dztVtCmPWW+YvjDct
-zUu4IhGoPqWt5zBBSQKkVOGDc79YBywKD1zeYxiWsteGXAzfA7mK+SQOx7nO6Phr
-ssmF0X0HTKtpboUTJbYu1pTOjbJGPdarzBi2aa+VIKf13rseD6ySgJBb3BB0S3wx
-dZSO7aif
-=0jw/
+iQGzBAEBCAAdFiEE+P/4pTbw+GTyvjJElk/YWGHIWNcFAmOXs8wACgkQlk/YWGHI
+WNcRHwwAlwJj+1x45psBtbUFTP6PbxxYimS+x1ur6zjD+sEcsubvuNnGYdY3hpT0
+YSmAGkjKwXJgTViMUmxxml+kJfWV6hAGiuihjIVoNktkjJMgil83yeXBTjOPRZzS
+u4ZoYGFjwcnbm3AaseJRF3enCnelVouLJMAg4Yq5Wkgo1X9paks/0/zFnJvDyQs4
+vT44UVRck4y6GsIqah8ymlnFD6iJPcsd95fQktiFLXQNVrPsYUsc0c79AlXeRucZ
+DQbEMbTTSz8xsfwjrfseD65ukdOtFcQv6UlSfN3qX9D5veyXP2651cCmxUJH7QXA
+hVJ4g310MG6ZCr7MyKs2HLcMkF0ZXeJO577jDA5vFC6dv6CuFCzU/5aE+gtc0qoa
+eibPjebGpV3LBEskLe/DIIqI0nStrfkfMhFHtLpjyE614NbL8kTxWNJkGX9dAhsM
+sIxn7lWsyhE5ucBReS1TEFMkJ1SyrD00Q4oDpBO4Gw5CHy3M21HylP3fGpD/3seK
+Sz+EnhqC
+=198x
 -----END PGP SIGNATURE-----
