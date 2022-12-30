@@ -32,32 +32,20 @@ Section: utils
 Description: libconfig 11
 Original-Maintainer: Arda Atci
 
-Package: nvim
-Version: 0.8.0-1
-Architecture: all
-Maintainer: Arda Atci <arda@phyos.su>
-Depends: libc6 (>= 2.34), libluajit-5.1-2 (>= 2.0.4+dfsg), libmsgpackc2 (>= 2.1.0), libtermkey1 (>= 0.19), libtree-sitter0 (>= 0.20.2), libunibilium4 (>= 2.0), libuv1 (>= 1.30.1), libvterm0 (>= 0.1)
-Recommends: python3-pynvim, xclip | xsel, xxd
-Suggests: ctags, vim-scripts
-Replaces: neovim (<< 0.8), neovim-runtime
-Provides: editor (= 0.8.0)
-Filename: pool/main/nvim_0.8.0-1_all.deb
-Size: 7549696
-MD5sum: cb71e232a9923bd994610bd1c32dbdf4
-SHA1: 8cc703afc701ee63b84427fae7ca288940b4de6d
-SHA256: fab607fb2e4d566a4d98a60aedcfff29529a890511f24c41c056c36062689317
-Section: editors
+Package: neovim
+Version: 0.8.2
+Architecture: amd64
+Maintainer: Neovim.io
+Installed-Size: 32362
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.3)
+Filename: pool/main/nvim_0.8.2_all.deb
+Size: 10466072
+MD5sum: ec9130d260989b2cfe78c1107244e429
+SHA1: 36cb79a3a22bc8571d2063fe06c8d18839d09eb9
+SHA256: a2d82dd169a11408921db90060c93cafdec43507898fbb36bc9e88e483ee3dfa
+Section: devel
 Priority: optional
-Description: heavily refactored vim fork
- Neovim is a fork of Vim focused on modern code and features, rather than
- running in legacy environments.
- .
- msgpack API enables structured communication to/from any programming language.
- Remote plugins run as co-processes that communicate with Neovim safely and
- asynchronously.
- .
- GUIs (or TUIs) can easily embed Neovim or communicate via TCP sockets using
- the discoverable msgpack API.
+Description: Vim-fork focused on extensibility and usability.
 
 Package: pdwm
 Version: 1.3-11
