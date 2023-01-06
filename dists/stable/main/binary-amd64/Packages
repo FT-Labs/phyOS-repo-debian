@@ -348,28 +348,3 @@ Section: utils
 Description: Base theinit busybox
 Original-Maintainer: Arda Atci
 
-Package: zsh
-Version: 5.9-2
-Architecture: amd64
-Maintainer: Debian Zsh Maintainers <pkg-zsh-devel@lists.alioth.debian.org>
-Installed-Size: 2436
-Depends: zsh-common (= 5.9-2), libc6 (>= 2.34), libcap2 (>= 1:2.10), libtinfo6 (>= 6), debianutils (>= 5.3-1~)
-Recommends: libc6 (>= 2.35), libncursesw6 (>= 6), libpcre3
-Suggests: zsh-doc
-Filename: pool/main/zsh_5.9-2_amd64.deb
-Size: 902816
-MD5sum: dd65335a1df030bd6849a8910d67c389
-SHA1: ea67a56ddb9984d4e2da4f03ad0f6448f7d1cb20
-SHA256: f4b39eaffb06e214cfb547e489fdc6459ea24c4ad03ad93fd48ea7517379989b
-Section: shells
-Priority: optional
-Homepage: https://www.zsh.org/
-Description: shell with lots of features
- Zsh is a UNIX command interpreter (shell) usable as an
- interactive login shell and as a shell script command
- processor. Of the standard shells, zsh most closely resembles
- ksh but includes many enhancements. Zsh has command-line editing,
- built-in spelling correction, programmable command completion,
- shell functions (with autoloading), a history mechanism, and a
- host of other features.
-
