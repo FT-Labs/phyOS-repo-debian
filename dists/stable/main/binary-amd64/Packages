@@ -259,14 +259,13 @@ Architecture: all
 Protected: Yes
 Origin: Arda Atci
 Maintainer: Arda Atci
-Depends: theinit-busybox, libarchive-tools
 Conflicts: initramfs-tools, tiny-initramfs, grub2-common, grub2-pc
 Provides: initramfs-tools, theinit, mktheinit, init-select
 Filename: pool/main/theinit_1.0_all.deb
-Size: 47776
-MD5sum: 3165a0e2deb1d3a672bcf1a4598b20e9
-SHA1: 40dcfe8b82e068c51dd879c3fa1b7697de7d45ca
-SHA256: 7b4056c7e2ddd129e49dbb8d60d4a14c89578a0aae78b07f96ffe50f0b134adb
+Size: 47752
+MD5sum: 3dead0a0656e1e2efad206521488e867
+SHA1: c866a723494318cb9c6abcaf80e1aecbddbc01c0
+SHA256: f032e5b9d657b2c9f98198341ff4d2dbca6289b2b1740ac1d6ba187e676e807a
 Section: utils
 Priority: Required
 Description: THE INIT
