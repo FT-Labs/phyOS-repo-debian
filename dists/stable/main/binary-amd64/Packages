@@ -37,13 +37,13 @@ Version: 1.1-01
 Architecture: all
 Origin: https://github.com/FT-Labs/pdwmc/
 Maintainer: Arda Atci
-Depends: python3-pip
+Depends: python3-pip, python3-pyqt5, python3-tabulate, python3-pycparser
 Provides: pdwmc
 Filename: pool/main/pdwmc_1.1-01_all.deb
-Size: 26784
-MD5sum: 72418b7dadf18fc9d498c12870c95d4a
-SHA1: aebe6b632e3969eeec76666128816b6138cf3120
-SHA256: bde68096f47a36da9f9d07a2f4f0e58821a16f717520321c5c4deab449bd0265
+Size: 26728
+MD5sum: f9628a9c884d545578909459ce2a137a
+SHA1: 1e0042dd7f18f5cbea5459307546890ae5cd6432
+SHA256: 4336fafa35ebcfa040da07b9eaab057b5f8b5bcc8630a7e9a670c6905dcbd4e8
 Section: utils
 Description: Config editor for pdwm
 Original-Maintainer: Arda Atci
