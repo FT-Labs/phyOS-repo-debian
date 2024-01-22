@@ -164,18 +164,18 @@ Description: Configuration files for phyOS
 Original-Maintainer: Arda Atci
 
 Package: phyos-system-scripts
-Version: 2.8-01
+Version: 2.8-02
 Architecture: all
 Origin: https://github.com/FT-Labs/phyOS-system-scripts
 Maintainer: Arda Atci
-Depends: maim, xcape, git, x11-xserver-utils, phyos-rofi, powerline, pamixer, pavucontrol, lm-sensors
+Depends: maim, xcape, git, x11-xserver-utils, rofi, powerline, pamixer, pavucontrol, lm-sensors
 Conflicts: phyos-system-scripts
 Provides: phyos-system-scripts
-Filename: pool/phyos-system-scripts_2.8-01_all.deb
+Filename: pool/phyos-system-scripts_2.8-02_all.deb
 Size: 29204
-MD5sum: 6a08f0b017a46c90882a6b14397b6c07
-SHA1: 1a9042d3a148f8e1a213529bafbb9f6c2f997907
-SHA256: 33d80020890a41561b71410a4175ec23af02563556f27ab23dd3f309a14a52c6
+MD5sum: 21a9f6a522c131b057dac860054ca4a7
+SHA1: 1ad10c2d83ef5624efcaca6bd9a6604888871d36
+SHA256: f40179c43bbca8c9dbc69bfa4690671d23b7db869967e8a1587b3f8640b7ad94
 Section: utils
 Description: Scripts & utilities for phyOS
 Original-Maintainer: Arda Atci
@@ -193,23 +193,5 @@ SHA1: a541e37a42bf2c7c48e432c0f3c802e81be23e47
 SHA256: 77df428e4044a576e602afd91ecc0ee8c03f2a4affd55bad740c8b9648e17173
 Section: utils
 Description: System settings TUI application for phyOS
-Original-Maintainer: Arda Atci
-
-Package: theinit
-Version: 1.0
-Architecture: all
-Protected: Yes
-Origin: Arda Atci
-Maintainer: Arda Atci
-Conflicts: initramfs-tools, tiny-initramfs, grub2-common, grub2-pc
-Provides: initramfs-tools, theinit, mktheinit, init-select
-Filename: pool/main/theinit_1.0_all.deb
-Size: 47752
-MD5sum: 774803590619d62cf03e91f6409a352b
-SHA1: 270c70498d56136e87f4926d348a6e8df63b4c51
-SHA256: 01f6ee368ff0a66b58d447b52b60fc5fc1b56d28512d180418c9da52c91ae453
-Section: utils
-Priority: Required
-Description: THE INIT
 Original-Maintainer: Arda Atci
 
