@@ -20,14 +20,14 @@ Version: 1.4-03
 Architecture: all
 Origin: Arda Atci
 Maintainer: Arda Atci
-Depends: xwallpaper, alsa-base, alsa-utils, anacron, at-spi2-core, bc, ca-certificates, dmz-cursor-theme, fonts-dejavu-core, fonts-freefont-ttf, phyos-fonts, phyos-system-scripts, ghostscript-x, libnotify-bin, libsasl2-modules, libu2f-udev, pulseaudio, rfkill, ubuntu-drivers-common, unzip, wireless-tools, wpasupplicant, xdg-user-dirs, xdg-user-dirs-gtk, xkb-data, xorg, yelp, zenity, zip, libxft2, xclip, libxcb-res0
+Depends: xwallpaper, alsa-base, alsa-utils, anacron, at-spi2-core, bc, ca-certificates, dmz-cursor-theme, fonts-dejavu-core, fonts-freefont-ttf, phyos-fonts, phyos-system-scripts, ghostscript-x, libnotify-bin, libsasl2-modules, libu2f-udev, rfkill, ubuntu-drivers-common, unzip, wireless-tools, wpasupplicant, xdg-user-dirs, xdg-user-dirs-gtk, xkb-data, xorg, yelp, zenity, zip, libxft2, xclip, libxcb-res0
 Conflicts: dwm, dwmblocks
 Provides: pdwm, dwmblocks
 Filename: pool/pdwm_1.4-03_all.deb
-Size: 58312
-MD5sum: b957dd293db478b8fc2b8d426dec331e
-SHA1: 553a62876e2902e3eb5d6de75e02db3a83f0abaa
-SHA256: 0ff0a6d212aeb16d2325967ee95a98091ad0d46a17d7123e5d039d1e6c320ed5
+Size: 58308
+MD5sum: 6d8d52f83e1d8d97d4f97d185c027897
+SHA1: 158ef1e961ded71eaae456f1b5422c3eb6710967
+SHA256: 824f5acd818597ac71916de5a6251adcce4d0c184d049f14aa1197ad962b80a0
 Section: libs
 Description: Pdwm window manager
 Original-Maintainer: Arda Atci
@@ -168,14 +168,14 @@ Version: 2.8-02
 Architecture: all
 Origin: https://github.com/FT-Labs/phyOS-system-scripts
 Maintainer: Arda Atci
-Depends: maim, xcape, git, x11-xserver-utils, rofi, powerline, pamixer, pavucontrol, lm-sensors
+Depends: maim, xcape, git, x11-xserver-utils, rofi, powerline, lm-sensors
 Conflicts: phyos-system-scripts
 Provides: phyos-system-scripts
 Filename: pool/phyos-system-scripts_2.8-02_all.deb
-Size: 29204
-MD5sum: 21a9f6a522c131b057dac860054ca4a7
-SHA1: 1ad10c2d83ef5624efcaca6bd9a6604888871d36
-SHA256: f40179c43bbca8c9dbc69bfa4690671d23b7db869967e8a1587b3f8640b7ad94
+Size: 29192
+MD5sum: 5b003f4bdb51539f5b06950ca5e98758
+SHA1: aafbde39ac54413c6d6e0b2175c67235058b61c8
+SHA256: bd9097481e3a799affa315bd9c2880db6b0abf2c6a84c581535ec654d567cae9
 Section: utils
 Description: Scripts & utilities for phyOS
 Original-Maintainer: Arda Atci
